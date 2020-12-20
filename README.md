@@ -31,7 +31,7 @@ yarn install
 
 ## Executando
 
-Dentro do dirétorio do projeto executar o comando para iniciar o servidor e o projeto:
+Dentro do dirétorio do projeto executar o comando para iniciar o projeto:
 
 ```shell
 yarn start
