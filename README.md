@@ -23,7 +23,7 @@ cd "diretorio de sua preferencia"
 git clone https://github.com/vinisco/atividade-previa-MBA-infraestrutura
 ```
 
-Depois utilizar o yarn install dentro do diretório para instalar as dependencias:
+Depois utilizar o yarn dentro do diretório para instalar as dependencias:
 
 ```shell
 yarn install
