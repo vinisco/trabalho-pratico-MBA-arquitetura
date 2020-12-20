@@ -20,6 +20,7 @@ export default function Home() {
       } catch (err) {
         alert(err.message);
       }
+      window.scrollTo(0, 0);
       setIsLoading(false);
     }
     fetchData();
@@ -34,6 +35,7 @@ export default function Home() {
       } catch (err) {
         alert(err.message);
       }
+      window.scrollTo(0, 0);
       setIsLoading(false);
     }
     fetchData();
