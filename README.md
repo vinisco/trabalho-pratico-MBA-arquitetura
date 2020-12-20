@@ -5,12 +5,13 @@ O backend fornece uma lista de livros, você deve construir uma interface utiliz
 
 ## Execução
 
+Projeto criado usando os Frameworks React e Bootstrap. 
 
 ## Começando
 
 Para executar o projeto, será necessário:
 
-- [Yarn: para usar como gerenciador de pacotes pro projeto](hhttps://yarnpkg.com/lang/en/docs/install/)
+- [Yarn: para usar como gerenciador de pacotes pro projeto](https://yarnpkg.com/lang/en/docs/install/)
 - [Node.js: para executar os nossos códigos](https://nodejs.org/en/download/)
 
 ## Instalando
@@ -33,5 +34,5 @@ yarn install
 Dentro do dirétorio do projeto executar o comando para iniciar o servidor e o projeto:
 
 ```shell
-yarn run-p server start
+yarn start
 ```
